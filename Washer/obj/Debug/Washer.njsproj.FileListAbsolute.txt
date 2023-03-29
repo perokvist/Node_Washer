@@ -1,0 +1,3 @@
+C:\Users\perok\Source\Repos\Washer\Washer\obj\Debug\Washer.njsproj.AssemblyReference.cache
+C:\Users\perok\Source\Repos\Washer\Washer\obj\Debug\Washer.njsproj.CoreCompileInputs.cache
+C:\Users\perok\Source\Repos\Washer\Washer\bin\Microsoft.NodejsTools.WebRole.dll
